@@ -41,7 +41,7 @@ image(bma_isced68)
 
 
 # defining model constrains: select the models for predictions
-# the models included in each age-sex group are listed in tables 4.a., 4.b. and 4.c. in Supplementary material 1
+# the models included in each age-sex group are listed in table 4.a. in Supplementary material 1
 models_isced02 <- c()
 models_isced3 <- c()
 models_isced68 <- c()
