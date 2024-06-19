@@ -1,6 +1,8 @@
 # Projecting Heat-Stress Vulnerable Populations at Intra-Urban Scales
 
-This repository provides the data and scripts necessary for full reproduction of results, as well as example datasets that were used for data generation and analysis in the manuscript Marginean et al., "Projecting Heat-Stress Vulnerable Populations at Intra-Urban Scales".
+DOI: 10.5281/zenodo.12165386
+
+This repository provides the data and scripts necessary for full reproduction of results, as well as example datasets that were used for data generation and analysis in the manuscript Marginean et al., "High-resolution Modelling and Projecting Local Dynamics of Differential Vulnerability to Urban Heat Stress".
 
 The folders in this repository contain the following:
 1) The input datasets:
